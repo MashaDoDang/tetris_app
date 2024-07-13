@@ -1,6 +1,6 @@
 # Tetris Game using Pygame
 
-This project is a classic Tetris game developed using Pygame. The game features essential Tetris mechanics, additional functionalities like energy bars, and a user-friendly interface.
+This project is a classic Tetris game developed using Pygame. It features essential Tetris mechanics, additional functionalities like energy bars, and a user-friendly interface. This project was created as the final project for the Python Development course at Beetroot Academy in August 2023.
 
 ## Features
 
