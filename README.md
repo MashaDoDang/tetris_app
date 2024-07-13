@@ -12,10 +12,13 @@ How to Play
 Run the Game: Execute the main script to start the game.
 
 Controls:
+
 Arrow Keys: Move the blocks left, right, and down.
 Up Arrow: Rotate the block.
 Space: Pause and resume the game.
 Escape: Restart the game.
+
 Energy Bars:
+
   Yellow Blocks: Destroying these blocks accumulates energy to slow down the falling speed of blocks.
   Blue Blocks: Destroying these blocks accumulates energy to destroy the current block and move to the next.
